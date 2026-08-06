@@ -1,0 +1,101 @@
+id,name,email,age,department,gpa,city,passed,status,gpa_percentage
+1,Yazan,yazan@university.edu,19,Computer Science,3.06,Bethlehem,True,Good,76.5
+2,Mona,mona@university.edu,23,Artificial Intelligence,2.9,Hebron,True,Weak,72.5
+3,Dina,dina@university.edu,23,Artificial Intelligence,3.11,Gaza,True,Good,77.75
+4,Sami,sami@university.edu,23,Information Technology,3.19,Bethlehem,True,Good,79.75
+5,Khaled,khaled@university.edu,24,Computer Science,2.16,Nablus,False,Weak,54.0
+6,Ali,ali@university.edu,25,Computer Science,2.74,Tulkarm,True,Weak,68.5
+7,Dina,dina@university.edu,24,Business,2.48,Gaza,False,Weak,62.0
+8,Hamza,hamza@university.edu,25,Computer Science,3.61,Ramallah,True,Good,90.25
+9,Yazan,yazan@university.edu,23,Business,2.94,Bethlehem,True,Weak,73.5
+10,Hassan,hassan@university.edu,24,Business,3.97,Ramallah,True,Excellent,99.25
+11,Zaid,zaid@university.edu,23,Computer Science,2.8,  ramallah  ,True,Weak,70.0
+12,Fadi,fadi@university.edu,18,Artificial Intelligence,3.63,Bethlehem,True,Good,90.75
+13,Khaled,khaled@university.edu,23,Computer Science,4.0,Nablus,True,Excellent,100.0
+14,Khaled,khaled@university.edu,25,Computer Science,2.3,Nablus,False,Weak,57.5
+15,Nadin,nadin@university.edu,22,Business,2.96,Tulkarm,True,Weak,74.0
+16,Sami,sami@university.edu,22,Artificial Intelligence,2.96,Jenin,True,Weak,74.0
+17,Dina,dina@university.edu,25,Computer Science,3.8,Jenin,True,Excellent,95.0
+18,Tariq,tariq@university.edu,22,Artificial Intelligence,2.6,Ramallah,True,Weak,65.0
+19,Sara,sara@university.edu,22,Artificial Intelligence,2.2,Bethlehem,False,Weak,55.0
+20,Layla,layla@university.edu,23,Information Technology,2.78,Bethlehem,True,Weak,69.5
+21,Kareem,kareem@university.edu,23,Business,3.75,Jerusalem,True,Excellent,93.75
+22,Kareem,kareem@university.edu,24,Artificial Intelligence,3.05,Ramallah,True,Good,76.25
+23,Rami,rami@university.edu,25,Artificial Intelligence,3.69,Bethlehem,True,Good,92.25
+24,Wael,wael@university.edu,22,Information Technology,2.66,Gaza,True,Weak,66.5
+25,Dana,dana@university.edu,20,Computer Science,2.92,Bethlehem,True,Weak,73.0
+26,Khaled,khaled@university.edu,22,Computer Science,2.55,nablus,True,Weak,63.75
+27,Sami,sami@university.edu,24,Business,2.37,Ramallah,False,Weak,59.25
+28,Sami,sami@university.edu,24,Information Technology,1.2,Bethlehem,False,Weak,30.0
+29,Mona,mona@university.edu,23,Computer Science,2.5,Jerusalem,False,Weak,62.5
+30,Maya,maya@university.edu,24,Computer Science,3.22,Jerusalem,True,Good,80.5
+31,Ali,ali@university.edu,22,Artificial Intelligence,2.9,Nablus,True,Weak,72.5
+32,Khaled,khaled@university.edu,24,Business,2.29,Ramallah,False,Weak,57.25
+33,Omar,omar@university.edu,23,Business,3.01,Gaza,True,Good,75.25
+34,Tariq,tariq@university.edu,25,Computer Science,2.81,Tulkarm,True,Weak,70.25
+35,Fadi,fadi@university.edu,20,Information Technology,2.83,Jenin,True,Weak,70.75
+36,Mariam,mariam@university.edu,24,Computer Science,3.04,Ramallah,True,Good,76.0
+37,Dina,dina@university.edu,21,Information Technology,3.47,Jerusalem,True,Good,86.75
+38,Salma,salma@university.edu,21,Information Technology,3.74,Tulkarm,True,Excellent,93.5
+39,Rania,rania@university.edu,24,Computer Science,3.89,Nablus,True,Excellent,97.25
+40,Sami,sami@university.edu,21,Information Technology,3.12,Hebron,True,Good,78.0
+41,Wael,wael@university.edu,22,Business,3.67,Ramallah,True,Good,91.75
+42,Zaid,zaid@university.edu,21,Business,2.63,Ramallah,True,Weak,65.75
+43,Nadin,nadin@university.edu,23,Computer Science,2.7,Bethlehem,True,Weak,67.5
+44,Dina,dina@university.edu,22,Artificial Intelligence,2.51,Ramallah,True,Weak,62.75
+45,Sami,sami@university.edu,23,Computer Science,2.2,Hebron,False,Weak,55.0
+46,Youssef,youssef@university.edu,22,Information Technology,3.74,Bethlehem,True,Excellent,93.5
+47,Sara,sara@university.edu,24,Information Technology,3.63,Jerusalem,True,Good,90.75
+48,Ahmad,ahmad@university.edu,18,Business,3.26,Jerusalem,True,Good,81.5
+49,Ali,ali@university.edu,22,Information Technology,3.31,Jenin,True,Good,82.75
+50,Fadi,fadi@university.edu,22,Business,3.81,Ramallah,True,Excellent,95.25
+51,Fadi,fadi@university.edu,22,Information Technology,2.24,Tulkarm,False,Weak,56.0
+52,Layla,layla@university.edu,23,Information Technology,2.19,Hebron,False,Weak,54.75
+53,Sami,sami@university.edu,23,Computer Science,3.2,Jenin,True,Good,80.0
+54,Mariam,mariam@university.edu,19,Business,2.09,Gaza,False,Weak,52.25
+55,Sami,sami@university.edu,19,Information Technology,3.2,Hebron,True,Good,80.0
+56,Khaled,khaled@university.edu,24,Information Technology,3.99,Gaza,True,Excellent,99.75
+57,Fadi,fadi@university.edu,23,Business,3.48,Hebron,True,Good,87.0
+58,Khaled,khaled@university.edu,21,Information Technology,3.11,Ramallah,True,Good,77.75
+59,Fadi,fadi@university.edu,21,Computer Science,3.28,Jenin,True,Good,82.0
+60,Zaid,zaid@university.edu,21,Business,2.74,Tulkarm,True,Weak,68.5
+61,Omar,omar@university.edu,21,Information Technology,2.84,JERUSALEM,True,Weak,71.0
+62,Salma,salma@university.edu,21,Artificial Intelligence,2.18,Hebron,False,Weak,54.5
+63,Lina,lina@university.edu,24,Computer Science,3.03,Jerusalem,True,Good,75.75
+64,Ahmad,ahmad@university.edu,21,Business,2.9,Tulkarm,True,Weak,72.5
+65,Adam,adam@university.edu,23,Computer Science,3.45,Gaza,True,Good,86.25
+66,Sami,sami@university.edu,25,Computer Science,2.98,Ramallah,True,Weak,74.5
+67,Ahmad,ahmad@university.edu,21,Computer Science,3.93,Tulkarm,True,Excellent,98.25
+68,Omar,omar@university.edu,24,Information Technology,3.98,Bethlehem,True,Excellent,99.5
+69,Huda,huda@university.edu,20,Artificial Intelligence,2.58,Jenin,True,Weak,64.5
+70,Kareem,kareem@university.edu,24,Artificial Intelligence,3.4,Tulkarm,True,Good,85.0
+71,Sara,sara@university.edu,23,Business,3.12,Nablus,True,Good,78.0
+72,Zaid,zaid@university.edu,20,Information Technology,2.24,Nablus,False,Weak,56.0
+73,Sara,sara@university.edu,21,Business,2.44,Ramallah,False,Weak,61.0
+74,Dana,dana@university.edu,21,Artificial Intelligence,2.31,Gaza,False,Weak,57.75
+75,Salma,salma@university.edu,22,Computer Science,2.69,Ramallah,True,Weak,67.25
+76,Sara,sara@university.edu,21,Computer Science,2.6,Jerusalem,True,Weak,65.0
+77,Zaid,zaid@university.edu,21,Computer Science,3.4,Hebron,True,Good,85.0
+78,Omar,omar@university.edu,19,Information Technology,2.41,Nablus,False,Weak,60.25
+79,Youssef,youssef@university.edu,23,Artificial Intelligence,3.64,Ramallah,True,Good,91.0
+80,Omar,omar@university.edu,23,Artificial Intelligence,2.09,Ramallah,False,Weak,52.25
+81,Youssef,youssef@university.edu,23,Artificial Intelligence,3.24,Ramallah,True,Good,81.0
+82,Rami,rami@university.edu,22,Computer Science,3.1,Jerusalem,True,Good,77.5
+83,Huda,huda@university.edu,25,Artificial Intelligence,2.2,Hebron,False,Weak,55.0
+84,Adam,adam@university.edu,20,Information Technology,2.4,Bethlehem,False,Weak,60.0
+85,Youssef,youssef@university.edu,24,Artificial Intelligence,2.15,Ramallah,False,Weak,53.75
+86,Kareem,kareem@university.edu,24,Artificial Intelligence,2.09,Nablus,False,Weak,52.25
+87,Sami,sami@university.edu,20,Computer Science,3.17,Jerusalem,True,Good,79.25
+88,Sami,sami@university.edu,18,Computer Science,3.5,Ramallah,True,Good,87.5
+89,Sami,sami@university.edu,22,Artificial Intelligence,2.14,Nablus,False,Weak,53.5
+90,Hassan,hassan@university.edu,21,Computer Science,2.64,Ramallah,True,Weak,66.0
+91,Mariam,mariam@university.edu,25,Computer Science,3.61,Jerusalem,True,Good,90.25
+92,Wael,wael@university.edu,22,Business,3.76,Tulkarm,True,Excellent,94.0
+93,Reem,reem@university.edu,23,Computer Science,2.21,Jerusalem,False,Weak,55.25
+94,Khaled,khaled@university.edu,24,Business,3.6,Hebron,True,Good,90.0
+95,Dina,dina@university.edu,21,Computer Science,3.67,Jerusalem,True,Good,91.75
+96,Zaid,zaid@university.edu,20,Business,2.67,Bethlehem,True,Weak,66.75
+97,Ali,ali@university.edu,22,Computer Science,3.01,Ramallah,True,Good,75.25
+98,Khaled,khaled@university.edu,20,Information Technology,2.5,Jenin,False,Weak,62.5
+99,Dana,dana@university.edu,23,Business,3.4,Gaza,True,Good,85.0
+100,Fadi,fadi@university.edu,22,Computer Science,2.28,Bethlehem,False,Weak,57.0
