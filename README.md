@@ -155,9 +155,8 @@ A simple baseline prediction was also used to compare the model performance with
 - Scikit-learn
 
 ## Project Structure
-
+```text
 student-performance-analysis/
-
 ├── students.csv
 ├── analysis.py
 ├── images/
@@ -174,6 +173,7 @@ student-performance-analysis/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Key Findings
 
